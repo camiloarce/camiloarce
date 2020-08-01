@@ -40,7 +40,7 @@
 
 - ⚡ Fun fact **I love ride bycicle** :bicyclist:
 
-- 📝 [Resume](./files/camilo-arce-cv.pdf)
+- 📝 [Resume](https://github.com/camiloarce/camiloarce/raw/master/files/camilo-arce-cv.pdf)
 
 ## Technologies & Tools
 
