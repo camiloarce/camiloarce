@@ -23,7 +23,7 @@
   </a>
 </p>
 <a href="https://camiloarce.com/" target="_blank">
-  <img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" />
+  <img src="https://raw.githubusercontent.com/camiloarce/camiloarce/master/files/batman.jpg" align="right" height="200" />
 </a>
 
 ## About me
