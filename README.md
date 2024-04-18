@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋🤓, I'm Camilo Arce</h1>
+<h1 align="center">Hi, I'm Camilo Arce</h1>
 <samp>
-  <p align="center">A fullstack developer always up for the new challenges, experienced building and integrating APIs, websites and mobile applications mainly in JavaScript.</p>
+  <p align="center">A Software Engineer always up for the new challenges, experienced building and integrating APIs, websites and mobile applications mainly in JavaScript.</p>
 </samp>
 <p align="center">
   <a href="https://www.linkedin.com/in/camiloarce/" target="_blank">
@@ -22,15 +22,10 @@
     />
   </a>
 </p>
-<a href="https://camiloarce.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/camiloarce/camiloarce/master/files/batman.jpg" align="right" height="200" />
-</a>
 
 ## About me
 
 - 🌍 I'm from Cali - Colombia
-
-- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/camiloarce)
 
